@@ -19,3 +19,6 @@ Power Ups are as follows:
 1. Move around with the arrow keys.
 2. Fire using the Space Bar.
 3. Clear using the 'c' button.
+
+
+Code is as attached, to run the game execute the provided .jar file
